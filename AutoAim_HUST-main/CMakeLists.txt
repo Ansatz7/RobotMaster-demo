@@ -17,6 +17,7 @@ add_subdirectory(src/utils)
 add_subdirectory(src/buff)
 add_subdirectory(src/lcm)
 
+demo
 
 include_directories(
         src/
